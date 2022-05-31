@@ -3,3 +3,12 @@
 .ms_section_green {
     background-color: green;
 }
+
+.ms_section_blue {
+    background-color: royalblue;
+}
+
+.ms_anchor {
+    text-decoration: none;
+    color: yellow;
+}
